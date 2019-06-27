@@ -99,4 +99,4 @@ if __name__ == "__main__":
     text = "彼は\"Hello!\"と言った。"
     print("Input : {}".format(text))
     tokens = [token.midasi for token in t.analysis(text).mrph_list()]
-print("Tokenized : {}".format(tokens))
+    print("Tokenized : {}".format(tokens))
