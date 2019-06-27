@@ -1,7 +1,7 @@
 # juman_temporarily
 pyknpでJumanを使用した際の引用句の問題を一時的に解決するためのコード
 
-[【Python】Juman × PyKNPで解析結果から引用符が消える。]()で報告した引用句の問題を一時的に解決したコード。
+[【Python】Juman × PyKNPで解析結果から引用符が消える。](https://qiita.com/NLPingu/items/2eadb36af1e0ce8a01f4)で報告した引用句の問題を一時的に解決したコード。
 
 実行方法
 ~~~Python
